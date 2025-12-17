@@ -1,5 +1,7 @@
 # ubuntu-dev-machine-setup | Ubuntu 24.04 | Linux Mint 22
 
+[!WARNING] DISCONTINUED. THIS REPO IS NO LONGER MAINTAINED. FEEL FREE TO FORK THE REPO.
+
 ## Description
 
 This repository contains Ansible playbooks to configure your system as a development machine after a clean installation.
