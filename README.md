@@ -1,6 +1,15 @@
 # ubuntu-dev-machine-setup | Ubuntu 24.04 | Linux Mint 22
 
-[!WARNING] DISCONTINUED. THIS REPO IS NO LONGER MAINTAINED. FEEL FREE TO FORK THE REPO.
+---
+
+> [!WARNING]
+> **Discontinued**
+>
+> This repository is no longer actively maintained. I no longer use Ubuntu and cannot commit resources to addressing breaking changes.
+>
+> The code is provided as-is. Fork it, modify it, and take it in whatever direction you see fit.
+
+---
 
 ## Description
 
