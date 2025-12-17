@@ -140,6 +140,7 @@ base_developer_tools:
   - tcptraceroute    # Traceroute implementation using TCP packets
   - tig              # Text-mode interface for git
   - tilix            # A tiling terminal emulator for Linux using GTK+ 3
+  - tldr-py          # Simplified and community-driven man pages for command-line tools
   - tmux             # Terminal multiplexer
   - tmuxp            # Tmux session manager
   - tree             # Directory listing in tree format
@@ -178,7 +179,6 @@ golang_tools:
   # - github.com/wagoodman/dive@latest            # Tool for exploring each layer in a docker image
 
 rust_cargo_tools:
-  - tlrc  # tldr client
   - xh    # Drop-in replacement for httpie/http
 
 base_permanent_night_light:
