@@ -178,8 +178,8 @@ golang_tools:
   - github.com/jesseduffield/lazygit@latest     # Simple terminal UI for git commands
   # - github.com/wagoodman/dive@latest            # Tool for exploring each layer in a docker image
 
-rust_cargo_tools:
-  - xh    # Drop-in replacement for httpie/http
+# rust_cargo_tools:
+#   - xh    # Drop-in replacement for httpie/http
 
 base_permanent_night_light:
   night_light_enabled: false              # set this to true for permanently turning on night light
